@@ -77,3 +77,334 @@ footer{
     color: white;
     text-align: center;
 }
+
+.menu ul .li-iniciarsesion{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+
+.formularioiniciarsesion{
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 50%;
+    padding: 50px;
+    margin: 0px auto;
+    font-size: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.a-formularioiniciarsesion{
+    text-decoration: none;
+}
+
+.formularioregistro{
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 50%;
+    padding: 50px;
+    margin: 0px auto;
+    font-size: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.registro{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+    padding: 11px;
+    margin-left: 25%;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.registro:hover{
+    background-color: white;
+    border: 4px solid black;
+    color: black;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.formulariosolicitarreloj{
+    border: 4px solid black;
+    width: 50%;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.boton-enviar-solicitarreloj{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.boton-enviar-solicitarreloj:hover{
+    background-color: white;
+    border: 4px solid black;
+    color: black;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.solicitudenviada{
+    border: 4px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 14%;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.p-solicitudenviada{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.formulariocontacto{
+    border: 4px solid black;
+    width: 50%;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.boton-enviar-contacto{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.boton-enviar-contacto:hover{
+    background-color: white;
+    border: 4px solid black;
+    color: black;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.registroenviado{
+    border: 4px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 14%;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.p-registroenviado{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.contactoenviado{
+    border: 4px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 14%;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.p-contactoenviado{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.boton-iniciarsesion{
+    background-color: black;
+    border: 4px solid black;
+    color: white;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.boton-iniciarsesion:hover{
+    background-color: white;
+    border: 4px solid black;
+    color: black;
+    padding: 11px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.flexrelojesgamabaja{
+    display: flex;
+    margin-top: 50px;
+}
+
+.gamabaja{
+    font-size: 17.5px;
+    margin-top: 35px;
+}
+
+.relojesgamabaja{
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 250px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.botoncomprar{
+    background-color: black;
+    font-size: 25px;
+    border: 4px solid black;
+    color: white;
+    margin-left: 50%;
+    padding: 5px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.botoncomprar:hover{
+    background-color: white;
+    border: 4px solid black;
+    color: black;
+    margin-left: 50%;
+    padding: 5px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.reloj{
+    height: 300px;
+    margin: 0 auto;
+}
+
+.formulariocontacto{
+    border: 4px solid black;
+    width: 50%;
+    padding: 50px;
+    margin: 0 auto;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.presentacionreloj{
+    width: 25%;
+    margin: 0 auto;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+.comprarreloj1{
+    padding: 15px;
+    margin-left: 25%;
+    height: 500px;
+}
+
+.flexrelojesgamamedia{
+    display: flex;
+    margin-top: 50px;
+}
+
+.flexrelojesgamaalta{
+    display: flex;
+    margin-top: 50px;
+}
+
+.gama{
+    margin-left: 125px;
+}
+
+.relojesgamamedia{
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 250px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.relojesgamaalta{
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 250px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
